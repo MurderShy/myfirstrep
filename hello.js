@@ -1,1 +1,1 @@
-console.log("Hello Darian");
+console.log("Darian is a dinosaur from our imagination");
